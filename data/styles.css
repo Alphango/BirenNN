@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.box_3 {
+}
 .ellipse {
 }
 .image {
@@ -59,6 +61,15 @@
 }
 ._流程形状 {
 }
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 ._图片 {
   color:#000000;
 }
@@ -71,6 +82,9 @@
 .button {
 }
 .checkbox {
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
 ._形状 {
